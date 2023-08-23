@@ -1,0 +1,22 @@
+C:\Users\Akhil\Desktop\GRA task\venv\lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 1/20, Loss: 1.1202142536640167
+Epoch 2/20, Loss: 0.01600864832289517
+Epoch 3/20, Loss: 0.000857942650327459
+Epoch 4/20, Loss: 7.682862269575708e-05
+Epoch 5/20, Loss: 1.1503657788125565e-05
+Epoch 6/20, Loss: 2.384184199399897e-06
+Epoch 7/20, Loss: 6.556509788424592e-07
+Epoch 8/20, Loss: 1.1920928244535389e-07
+Epoch 9/20, Loss: 0.0
+Epoch 10/20, Loss: 0.0
+Epoch 11/20, Loss: 0.0
+Epoch 12/20, Loss: 0.0
+Epoch 13/20, Loss: 0.0
+Epoch 14/20, Loss: 0.0
+Epoch 15/20, Loss: 0.0
+Epoch 16/20, Loss: 0.0
+Epoch 17/20, Loss: 0.0
+Epoch 18/20, Loss: 0.0
+Epoch 19/20, Loss: 0.0
+Epoch 20/20, Loss: 0.0
